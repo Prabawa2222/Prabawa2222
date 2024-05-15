@@ -3,9 +3,9 @@
 # Arief here
 I'm a self-taught Full full-stack software Engineer.  My journey in software development has been fueled by curiosity and a relentless drive to learn and grow.
 
-# SKils and Frameworks
+# Skils and Frameworks
 * 🖳 ReactJS & NextJS
-* 📱 React Native
+* 📱React Native
 * 🖳 Nestjs
 * 🖳 Django
 * 🌐 HTML, CSS, JS, Python
